@@ -1,3 +1,5 @@
+#!/bin/bash
+#Coursera Data Structures test script
 cnt=1;
 for fl in tests/*
 do
